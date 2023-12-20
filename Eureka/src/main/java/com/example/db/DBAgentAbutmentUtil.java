@@ -15,8 +15,6 @@ import java.nio.charset.StandardCharsets;
 
 
 public class DBAgentAbutmentUtil {
-	
-	
     private static final String SESSION_TOKEN_PARAM = "anti_csrf_token";
     private static final String API_DATA_PARAM = "__hh_data";
     private static String apiSessionIdProp = null;
